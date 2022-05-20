@@ -1,0 +1,7 @@
+Started with the project, decided the color combinations and UI for Laptops and Mobiles seperately.
+
+Day 2 assigned work -
+
+Keshav - Create Home page designs (3-4) using the selected color combinations and templates.
+Ashish - Database/Firebase linkage with the website and how will the database work in case a user uploads an image/videos.
+Lucky - Database/Firebase and how to create login page using the same.
