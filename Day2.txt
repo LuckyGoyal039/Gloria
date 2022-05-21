@@ -1,0 +1,8 @@
+Finalised the UI for the Home page, decided the application name - "Gloria" and tagline - "Dive into the ocean of ideas".
+Learnt about login and upload intergration in our application using Firebase.
+
+Day 3 tasks - 
+
+Keshav - Make UI for Login and upload pages, start with writing react for login page and learn bootstrap and how to use it.
+Lucky - Learn login page implementation and how to limit access of people in the application who haven't logged in.
+Ashish - Learn upload page implementation and what fields to ask for during uploading a photo/video by the user. 
